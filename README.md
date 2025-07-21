@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Kawshal Ram</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/H2zQj7I.gif" width="180" alt="Tech Developer Animation" />
-</p>
-
-<p align="center">
   🚀 Software Development Intern at <b>OpenLynks</b> | 🤖 AI & LLM Enthusiast | 🔐 Cybersecurity Learner
 </p>
 
@@ -56,20 +52,12 @@
 > Features: Voice Input, Markdown, Theme Switch, Chat History  
 > ⚡ Improved load time by **30%**
 
-<p align="center">
-  <img src="https://i.imgur.com/tGbaZCY.png" width="80%" alt="RASA AI Chatbot UI Preview"/>
-</p>
-
 ---
 
 #### 📈 [Stock Market Prediction AI](https://github.com/KawshalRam/STOCK-prediction)
 > Built using **Keras**, **NumPy**, and **YFinance**  
 > Trained on real data (Apple, Infosys, etc.)  
 > ✅ Achieved **93% accuracy**, resource-optimized scheduler
-
-<p align="center">
-  <img src="https://i.imgur.com/Vf7B5kE.png" width="80%" alt="Stock Forecast Model Screenshot"/>
-</p>
 
 ---
 
@@ -89,8 +77,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)]()
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/7bYxS6T.png" width="100%" alt="Tech Footer Banner"/>
-</p>
