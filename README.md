@@ -1,7 +1,10 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6;">Kawshal Ram</span></h1>
+<!-- Decorative SVG Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:facc15&height=160&section=header&text=Kawshal%20Ram&fontAlign=center&fontSize=45&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <em>Software Development Intern at <strong>OpenLynks</strong> · LLM Integrator · Cybersecurity Explorer · Tech Enthusiast</em>
+  <em>👨‍💻 Software Development Intern @ <strong>OpenLynks</strong> · 🧠 AI/LLM Enthusiast · 🔐 Cybersecurity Explorer</em>
 </p>
 
 <p align="center">
@@ -14,22 +17,22 @@
 
 ## 🔍 About Me
 
-- 🧠 I'm a CS undergrad with a passion for **AI**, **cybersecurity**, and **building impactful products**
-- 💻 Currently a **Software Development Intern** at **OpenLynks**, contributing to intelligent automation and LLM-based tools
-- 🚀 Actively exploring **full-stack AI workflows**, **real-time data extraction**, and **secure system design**
-- 🤝 Looking to collaborate on innovative projects in **machine learning**, **chatbot UX**, or **predictive analytics**
+- 💻 Currently interning at **OpenLynks**, working on real-world automation tools and AI systems using **LLMs**
+- 🌐 Exploring end-to-end development from ingestion APIs to **LLM-based data processing**
+- 📚 Learning: **Cybersecurity**, **Stock Forecasting with ML**, **Full-Stack AI Apps**
+- 👥 Collaboration-ready for **chatbots**, **AI automation**, and **smart web tools**
 
 ---
 
 ## 💬 Ask Me About
 
-`Python` · `LLMs` · `Cybersecurity` · `Web Development` · `ML Deployment` · `AI Chatbots`
+🧠 LLM APIs · 🐍 Python · 🔐 Cybersecurity · 🎨 Chatbot UI/UX · ⚙️ ML Pipelines
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -49,26 +52,28 @@
 ## 🚀 Featured Projects
 
 ### 🧠 [RASA AI – Chat Assistant Web App](https://github.com/KawshalRam/RASA-AI)
-> A fast, responsive AI chatbot with **Google Gemini 1.5 Flash API**  
-> 🎙 Voice input, 🌗 Theme switcher, 📝 Markdown rendering, 💾 Chat history  
-> 🚀 Improved UX and load time by **30%**
+> A fast, responsive AI chatbot powered by **Google Gemini 1.5 Flash API**  
+> 🎙 Voice input · 🌗 Theme switch · 💾 Chat history · 📜 Markdown rendering  
+> 🚀 Load optimized by **30%**
 
 ---
 
 ### 📈 [Stock Market Prediction AI](https://github.com/KawshalRam/STOCK-prediction)
-> Predictive model built with **Keras**, **NumPy**, and **YFinance**  
-> 📊 Uses real-time stock data from Apple, Infosys, and more  
-> ✅ Achieved **93% prediction accuracy** with resource-efficient design
+> Built using **Keras**, **NumPy**, and **YFinance**  
+> Pulls real-time stock data from Apple, Infosys, etc.  
+> ✅ Achieved **93% prediction accuracy** with scheduled computation
 
 ---
 
-## 📌 Quick Stats
+## 🏅 Achievements
 
-- 🎓 B.Tech (Hons.) CSE - AIML @ Manipal University Jaipur  
-- 🏅 Certifications from **Google**, **IBM**, **EC-Council**, and **Mastercard**  
-- 🗂 Leadership: Chairperson @ ACM SIGAI | Partnership Director @ TEDxMUJ  
+- 🎓 B.Tech (Hons.) in CSE (AIML) from **Manipal University Jaipur**
+- 🏆 Certifications from **Google**, **IBM**, **EC-Council**, **Mastercard**
+- 👨‍🏫 Chairperson @ ACM SIGAI | 🤝 Partnership Director @ TEDxMUJ
 
 ---
 
-> _“Let code be simple, scalable, and human-centric.”_
-
+<!-- Decorative SVG Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=facc15,004aad&height=140&section=footer"/>
+</p>
