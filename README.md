@@ -1,79 +1,74 @@
-<h1 align="center">👋 Hi, I'm Kawshal Ram</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#3b82f6;">Kawshal Ram</span></h1>
 
 <p align="center">
-  🚀 Software Development Intern at <b>OpenLynks</b> | 🤖 AI & LLM Enthusiast | 🔐 Cybersecurity Learner
+  <em>Software Development Intern at <strong>OpenLynks</strong> · LLM Integrator · Cybersecurity Explorer · Tech Enthusiast</em>
+</p>
+
+<p align="center">
+  <a href="mailto:kawshalram09@gmail.com"><img src="https://img.shields.io/badge/Gmail-kawshalram09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/KawshalRam"><img src="https://img.shields.io/badge/LinkedIn-KawshalRam-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KawshalRam"><img src="https://img.shields.io/badge/GitHub-KawshalRam-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🔭 What I’m Currently Doing
-- Working as a **Software Development Intern at OpenLynks**
-- Contributing to AI automation systems involving **email ingestion**, **LLMs (Amazon Bedrock)**, and **data extraction pipelines**
+## 🔍 About Me
+
+- 🧠 I'm a CS undergrad with a passion for **AI**, **cybersecurity**, and **building impactful products**
+- 💻 Currently a **Software Development Intern** at **OpenLynks**, contributing to intelligent automation and LLM-based tools
+- 🚀 Actively exploring **full-stack AI workflows**, **real-time data extraction**, and **secure system design**
+- 🤝 Looking to collaborate on innovative projects in **machine learning**, **chatbot UX**, or **predictive analytics**
 
 ---
 
-### 🌱 What I’m Learning
-- 🔐 **Advanced Cybersecurity**
-- 📈 **AI-Based Financial Forecasting**
-- 🌐 **Full-Stack AI Integration & Deployment**
+## 💬 Ask Me About
+
+`Python` · `LLMs` · `Cybersecurity` · `Web Development` · `ML Deployment` · `AI Chatbots`
 
 ---
 
-### 👯 Looking to Collaborate On
-- 🤖 **AI Chatbots** (with LLMs, UX-rich interfaces)
-- 📊 **Stock Prediction Tools**
-- 🕸️ **Web Applications** involving **ML, LLM APIs, or Cybersecurity**
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### 🤔 Seeking Help With
-- ⚙️ **Scaling LLM applications**
-- 🚀 **Deploying ML models** in production
+## 🚀 Featured Projects
+
+### 🧠 [RASA AI – Chat Assistant Web App](https://github.com/KawshalRam/RASA-AI)
+> A fast, responsive AI chatbot with **Google Gemini 1.5 Flash API**  
+> 🎙 Voice input, 🌗 Theme switcher, 📝 Markdown rendering, 💾 Chat history  
+> 🚀 Improved UX and load time by **30%**
 
 ---
 
-### 💬 Ask Me About
-- 🐍 **Python**, 🧠 **LLM APIs**, 🔐 **Cybersecurity**, 🎨 **AI Chatbot UX**
+### 📈 [Stock Market Prediction AI](https://github.com/KawshalRam/STOCK-prediction)
+> Predictive model built with **Keras**, **NumPy**, and **YFinance**  
+> 📊 Uses real-time stock data from Apple, Infosys, and more  
+> ✅ Achieved **93% prediction accuracy** with resource-efficient design
 
 ---
 
-### 📫 How to Reach Me
+## 📌 Quick Stats
 
-[![Email](https://img.shields.io/badge/Gmail-kawshalram09@gmail.com-red?logo=gmail)](mailto:kawshalram09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KawshalRam-blue?logo=linkedin)](https://linkedin.com/in/KawshalRam)
-[![GitHub](https://img.shields.io/badge/GitHub-KawshalRam-black?logo=github)](https://github.com/KawshalRam)
-
----
-
-### 🔗 Featured Projects
-
-#### 🧠 [RASA AI: Chat Assistant Web App](https://github.com/KawshalRam/RASA-AI)
-> A responsive chatbot using **Google Gemini 1.5 Flash**, built with HTML/CSS/JS.  
-> Features: Voice Input, Markdown, Theme Switch, Chat History  
-> ⚡ Improved load time by **30%**
+- 🎓 B.Tech (Hons.) CSE - AIML @ Manipal University Jaipur  
+- 🏅 Certifications from **Google**, **IBM**, **EC-Council**, and **Mastercard**  
+- 🗂 Leadership: Chairperson @ ACM SIGAI | Partnership Director @ TEDxMUJ  
 
 ---
 
-#### 📈 [Stock Market Prediction AI](https://github.com/KawshalRam/STOCK-prediction)
-> Built using **Keras**, **NumPy**, and **YFinance**  
-> Trained on real data (Apple, Infosys, etc.)  
-> ✅ Achieved **93% accuracy**, resource-optimized scheduler
-
----
-
-### 🛠️ Tech Stack & Tools
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]()
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)]()
-[![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]()
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)]()
+> _“Let code be simple, scalable, and human-centric.”_
 
