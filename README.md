@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kawshal Ram</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" />
+  <img src="https://i.imgur.com/H2zQj7I.gif" width="180" alt="Tech Developer Animation" />
 </p>
 
 <p align="center">
@@ -11,42 +11,40 @@
 ---
 
 ### 🔭 What I’m Currently Doing
-- Working as a **Software Development Intern at OpenLynks**.
-- Contributing to real-world automation systems involving **email ingestion**, **LLMs (Amazon Bedrock)**, and **data processing**.
-- Exploring scalable backend architectures and ML deployment strategies.
+- Working as a **Software Development Intern at OpenLynks**
+- Contributing to AI automation systems involving **email ingestion**, **LLMs (Amazon Bedrock)**, and **data extraction pipelines**
 
 ---
 
 ### 🌱 What I’m Learning
-- 🔐 **Advanced Cybersecurity** (Mastercard Job Simulation, EC-Council)
+- 🔐 **Advanced Cybersecurity**
 - 📈 **AI-Based Financial Forecasting**
 - 🌐 **Full-Stack AI Integration & Deployment**
 
 ---
 
 ### 👯 Looking to Collaborate On
-- 🤖 **AI Chatbots** with real-time NLP
-- 📊 **Stock Prediction Models** using ML
-- 🕸️ **Web Applications** involving AI, LLM APIs, or Cybersecurity layers
+- 🤖 **AI Chatbots** (with LLMs, UX-rich interfaces)
+- 📊 **Stock Prediction Tools**
+- 🕸️ **Web Applications** involving **ML, LLM APIs, or Cybersecurity**
 
 ---
 
 ### 🤔 Seeking Help With
-- Scaling and optimizing **LLM-powered applications**
-- Deploying and monitoring **ML models** in production
+- ⚙️ **Scaling LLM applications**
+- 🚀 **Deploying ML models** in production
 
 ---
 
 ### 💬 Ask Me About
-- 🐍 **Python**, **C++**, **JavaScript**
-- 🔎 **LLM APIs**, **Cybersecurity**, **Data Science**
-- 💬 **AI Chatbot UX** and **UI Component Design**
+- 🐍 **Python**, 🧠 **LLM APIs**, 🔐 **Cybersecurity**, 🎨 **AI Chatbot UX**
 
 ---
 
 ### 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Gmail-kawshalram09@gmail.com-red?logo=gmail)](mailto:kawshalram09@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KawshalRam-blue?logo=linkedin)](https://linkedin.com/in/KawshalRam)  
+
+[![Email](https://img.shields.io/badge/Gmail-kawshalram09@gmail.com-red?logo=gmail)](mailto:kawshalram09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KawshalRam-blue?logo=linkedin)](https://linkedin.com/in/KawshalRam)
 [![GitHub](https://img.shields.io/badge/GitHub-KawshalRam-black?logo=github)](https://github.com/KawshalRam)
 
 ---
@@ -54,32 +52,45 @@
 ### 🔗 Featured Projects
 
 #### 🧠 [RASA AI: Chat Assistant Web App](https://github.com/KawshalRam/RASA-AI)
-> A responsive AI chatbot built using HTML/CSS/JS and powered by Google Gemini 1.5 Flash. Features voice input, theme switching, markdown rendering, and local storage.  
-> ⚡ Improved load times by **30%** and includes **6+ custom UI components**.
+> A responsive chatbot using **Google Gemini 1.5 Flash**, built with HTML/CSS/JS.  
+> Features: Voice Input, Markdown, Theme Switch, Chat History  
+> ⚡ Improved load time by **30%**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/rasabot-ui.png" width="80%" alt="RASA AI Chatbot UI Preview"/>
+  <img src="https://i.imgur.com/tGbaZCY.png" width="80%" alt="RASA AI Chatbot UI Preview"/>
 </p>
 
 ---
 
 #### 📈 [Stock Market Prediction AI](https://github.com/KawshalRam/STOCK-prediction)
-> Built with Keras, NumPy, and YFinance to predict stock prices using real-time data from companies like Apple, Infosys, and Google.  
-> ✅ Achieved **93% computation accuracy** and reduced resource usage via intelligent scheduling.
+> Built using **Keras**, **NumPy**, and **YFinance**  
+> Trained on real data (Apple, Infosys, etc.)  
+> ✅ Achieved **93% accuracy**, resource-optimized scheduler
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/stock-forecast-preview.png" width="80%" alt="Stock Prediction Chart Preview"/>
+  <img src="https://i.imgur.com/Vf7B5kE.png" width="80%" alt="Stock Forecast Model Screenshot"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-| Languages | Frameworks & Tools | Focus Areas | Soft Skills |
-|----------|--------------------|-------------|-------------|
-| 🐍 Python, 🧠 C++, 🌐 JavaScript, 📝 SQL, 🔤 HTML/CSS | 📦 Scikit-learn, 🐼 Pandas, 📊 Seaborn, AWS, GitHub | 🤖 Machine Learning, 🛡 Cybersecurity, 🧱 Web Dev, 🧠 LLM APIs | 💡 Problem Solving, 🤝 Teamwork, 🎯 Self-Learning, 🔄 Adaptability |
+### 🛠️ Tech Stack & Tools
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)]()
+[![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]()
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)]()
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004aad,100:facc15&height=120&section=footer"/>
+  <img src="https://i.imgur.com/7bYxS6T.png" width="100%" alt="Tech Footer Banner"/>
 </p>
