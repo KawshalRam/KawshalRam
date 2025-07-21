@@ -1,10 +1,10 @@
-<!-- 🚀 Futuristic Cyber Banner -->
+<!-- 🚀 Futuristic Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Kawshal+Ram!;AI+Engineer+%7C+Cybersecurity+Explorer+%7C+LLM+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hey%2C+I'm+Kawshal+Ram!;Software+Dev+Intern+%40+OpenLynks;AI+Engineer+%7C+Cybersecurity+Explorer+%7C+LLM+Developer" alt="Typing Banner" />
 </p>
 
 <p align="center">
-  <em>👨‍💻 Software Development Intern @ <strong>OpenLynks</strong> · 🤖 LLM Integrator · 🔐 Cybersecurity Enthusiast</em>
+  <em>👨‍💻 Software Development Intern @ <strong>OpenLynks</strong> · 🤖 LLM Enthusiast · 🔐 Cybersecurity Explorer</em>
 </p>
 
 <p align="center">
@@ -15,48 +15,57 @@
 
 ---
 
-## 🧠 About Me
+## 🔍 About Me
 
-- 💼 Interning at **OpenLynks**, working on automation tools powered by **LLMs** via Amazon Bedrock  
-- 🧪 Building scalable pipelines from **email ingestion APIs** to **structured AI responses**  
-- 📚 Learning: **Cybersecurity**, **AI for finance**, and **LLM app deployment**
-- 🤝 Open to collaborations in **AI Chatbots**, **ML tools**, and **Smart Web Systems**
+- 💼 Interning at **OpenLynks**, working on scalable automation pipelines using **LLMs (Amazon Bedrock)**  
+- 🧠 Passionate about building real-time AI systems and extracting structured insights from unstructured sources  
+- 🛡️ Exploring modern **Cybersecurity practices**, **Stock Forecasting**, and **Full-Stack AI tooling**  
+- 🤝 Open to collaborations on **AI chatbots**, **predictive ML apps**, and **smart web tools**
+
+---
+
+## 💬 Ask Me About
+
+🧠 LLM APIs · 🐍 Python · 🔐 Cybersecurity · 🎨 Chatbot UX/UI · ⚙️ ML Pipelines · 🌐 Full-stack AI Apps
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,aws,numpy,pandas,scikit-learn,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,aws" height="40" style="margin-right: 5px;" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github" height="40" style="margin-right: 5px;" />
 </p>
 
 ---
 
-## 🧪 Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 [RASA AI – Chat Assistant](https://github.com/KawshalRam/RASA-AI)
-> A responsive, voice-enabled AI chatbot with **Gemini 1.5 Flash API**.  
-> 💡 Markdown rendering · 🎙️ Voice input · 🌙 Dark mode toggle · 💾 Local chat history  
-> 🚀 30% Faster load time through smart optimization.
+### 🧠 [RASA AI – Chat Assistant Web App](https://github.com/KawshalRam/RASA-AI)
+> A fully responsive AI chatbot powered by **Google Gemini 1.5 Flash API**  
+> 🎙️ Voice Input · 🌙 Dark Mode · 📝 Markdown Rendering · 💾 Chat History  
+> ⚡ Optimized load time by **30%**
 
 ---
 
-### 📈 [Stock Market Predictor](https://github.com/KawshalRam/STOCK-prediction)
-> Forecasting engine built using **Keras**, **NumPy**, and **YFinance**  
-> 🔁 Pulls real-time stock data (Apple, Infosys, Google)  
-> ✅ Achieved 93% accuracy with a scheduler and low resource usage.
+### 📈 [Stock Market Prediction AI](https://github.com/KawshalRam/STOCK-prediction)
+> Real-time stock price predictor built using **Keras**, **NumPy**, and **YFinance**  
+> 🧪 Pulls data from Apple, Infosys, etc. · 📊 93% prediction accuracy  
+> 💡 Includes a file system, scheduler, and text UI
 
 ---
 
 ## 🏅 Achievements
 
-- 🎓 B.Tech (Hons.) in CSE (AIML) @ Manipal University Jaipur  
-- 🧠 Certified by **Google**, **IBM**, **EC-Council**, **Mastercard**  
-- 🪪 Chairperson @ ACM SIGAI | 🗣️ Partnership Director @ TEDxMUJ  
+- 🎓 **B.Tech (Hons.) CSE - AIML** @ Manipal University Jaipur  
+- 📜 Certified by **Google**, **IBM**, **EC-Council**, **Mastercard**  
+- 👨‍🏫 Chairperson @ ACM SIGAI · 🤝 Partnership Director @ TEDxMUJ  
 
 ---
 
-<!-- 🛰️ Futuristic Footer Banner -->
+<!-- 🛰️ Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:004aad,100:facc15&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontColor=ffffff&fontAlign=middle&fontSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=004aad,facc15&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontColor=ffffff&fontSize=20" />
 </p>
