@@ -83,7 +83,8 @@
 
 - 🎓 **B.Tech (Hons.) CSE (AIML)** @ Manipal University Jaipur  
 - 🧠 Certifications from **Google**, **IBM**, **EC-Council**, and **Mastercard**  
-- 👨‍🏫 Chairperson @ ACM SIGAI · 🤝 Partnership Director @ TEDxMUJ  
+- 👨‍🏫 Chairperson @ ACM SIGAI
+- 🤝 Partnership Director @ TEDxMUJ  
 
 ---
 
