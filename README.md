@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>👨‍💻 Software Development Intern @ <strong>OpenLynks</strong> · 🤖 LLM Enthusiast · 🔐 Cybersecurity Explorer</em>
+  <em>👨‍💻 Ex-Software & AI Development Intern @ <strong>OpenLynks</strong> · 🤖 LLM Enthusiast · 🔐 Cybersecurity Explorer</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🔍 About Me
 
-- 💼 Interning at **OpenLynks**, building automation pipelines using **LLMs via Amazon Bedrock**  
+- 💼 Interned at **OpenLynks**, building automation pipelines using **LLMs via Amazon Bedrock**  
 - 🔄 Creating real-time extraction systems for parsing emails into structured insights  
 - 🛡️ Learning and implementing **Cybersecurity principles**, **Stock Prediction Models**, and **LLM app deployment**  
 - 🤝 I love collaborating on AI-driven tools, chatbots, or ML-integrated platforms
